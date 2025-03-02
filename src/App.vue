@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/uppercase">UpperCase</RouterLink>
         <RouterLink to="/lowercase">LowerCase</RouterLink>
+        <RouterLink to="/flatten">Flatten</RouterLink>
       </nav>
     </div>
   </header>
